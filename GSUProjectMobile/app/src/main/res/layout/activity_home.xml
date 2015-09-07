@@ -19,6 +19,7 @@
         android:shadowDx="0"
         android:shadowDy="0"
         android:shadowRadius="5"
+        android:onClick="searchBooks"
         />
     <Button
         android:id="@+id/angry_btn"
@@ -32,7 +33,7 @@
         android:layout_below="@id/btnBuy"
         android:background="@drawable/redbuttonshape"
         android:layout_marginTop="30dp"
-        android:shadowColor="#a8344c"
+        android:shadowColor="#f0fff4"
         android:shadowDx="0"
         android:shadowDy="0"
         android:shadowRadius="5"
