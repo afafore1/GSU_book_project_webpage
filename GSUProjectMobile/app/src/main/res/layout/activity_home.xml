@@ -2,7 +2,8 @@
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
     android:id="@+id/Homepage"
     android:layout_height="fill_parent"
-    android:background="@android:color/holo_blue_bright"
+
+    android:background="@drawable/books"
     android:theme="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen"
     android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".Home">
     <Button
